@@ -1,0 +1,13 @@
+#!/bin/bash
+O string SCHOOL School data
+!:mime School
+
+
+On terminal
+chmod u+X school.mgc
+file -C -m school.mgc*
+file -mime-type -m school.mgc*
+
+git add
+git commit
+git push
