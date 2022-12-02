@@ -1,0 +1,2 @@
+#!bin/basic
+cp -un  *.html ../
